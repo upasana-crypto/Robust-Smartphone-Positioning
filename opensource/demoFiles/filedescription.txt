@@ -1,0 +1,7 @@
+gnss_log_2021_05_04_09_59_03: Xaomi Urban ~2hours
+gnss_log_2021_05_04_10_12_53: Pixel Urban ~2hours
+
+gnss_log_2021_05_04_19_45_42: Xaomi Urban ~2hours
+gnss_log_2021_05_04_19_45_44: Pixel Urban ~2hours
+
+gnss_log_2021_05_05_13_51_48: Xaomi Open field ~2hours
